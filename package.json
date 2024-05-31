@@ -1,0 +1,11 @@
+{
+  "name": "Web-NodeJS-ReactJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gui-azesantos/Web-NodeJS-ReactJS.git",
+  "author": "Guilherme Azevedo <gui-azesantos@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typeorm": "^0.3.20"
+  }
+}
